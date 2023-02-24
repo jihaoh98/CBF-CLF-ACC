@@ -12,4 +12,5 @@ Run ``acc_execute.py``
 
 # Credit
 https://github.com/HybridRobotics/CBF-CLF-Helper
+
 https://github.com/kimukook/CLF-CBF-python (Change the cvxpy package in this repo to casadi)
